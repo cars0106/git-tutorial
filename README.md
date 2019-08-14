@@ -18,21 +18,28 @@
 
 #### Basic
 
-1. git 초기화 및 첫 commit하기
-2. diff 사용과 추가 commit하기
-3. commit에 본인 서명 추가하기
-4. 지금까지 commit Github에 push하기
-5. 방금 한 commit 수정하기
-6. add 한거 취소하기
-7. commit 한거 없애기
+1. git 초기화 및 첫 commit하기 ([Demo][demo1])
+2. diff 사용과 추가 commit하기 ([Demo][demo2])
+3. commit에 본인 서명 추가하기 ([Demo][demo3])
+4. 지금까지 commit Github에 push하기 ([Demo][demo4])
+5. 방금 한 commit 수정하기 ([Demo][demo5])
+6. add 한거 취소하기 ([Demo][demo6])
+7. commit 한거 없애기 ([Demo][demo7])
 
 #### Advanced
 
-8. Pull-Request 보내기
-9. merge로 2개 브랜치 합치기
-10. rebase 하기
-11. 중간에 낀 commit 수정하기
-12. blame으로 commit 추적하기
+8. Pull-Request 보내기 ([Demo][demo8])
+9. merge로 2개 브랜치 합치기 ([Demo][demo9])
+10. rebase 하기 ([Demo][demo10])
+11. 중간에 낀 commit 수정하기 ([Demo][demo11])
+12. blame으로 commit 추적하기 ([Demo][demo12])
+
+## Demo
+
+<p align="center">
+    <a href="https://asciinema.org/a/262437" target="_blank"><img src="https://asciinema.org/a/262437.svg" /></a>
+</p>
+
 
 ## Author
 
@@ -58,3 +65,16 @@ _This README was generated with ❤️ by [readme-md-generator](https://github.c
 [atom]: https://atom.io
 [sublime]: https://www.sublimetext.com/3
 [github]: https://github.com/join
+
+[demo1]: https://asciinema.org/a/262437
+[demo2]: https://asciinema.org/a/262438
+[demo3]: https://asciinema.org/a/262441
+[demo4]: https://asciinema.org/a/262446
+[demo5]: https://asciinema.org/a/262456
+[demo6]: https://asciinema.org/a/262457
+[demo7]: https://asciinema.org/a/262458
+[demo8]: https://asciinema.org/a/262517
+[demo9]: https://asciinema.org/a/262523
+[demo10]: https://asciinema.org/a/262524
+[demo11]: https://asciinema.org/a/262525
+[demo12]: https://asciinema.org/a/262526
